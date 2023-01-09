@@ -25,7 +25,7 @@ const cache = new InMemoryCache({
 });
 
 const client = new ApolloClient({
-  uri: "https://fatigue-mgmt-system-api.onrender.com/",
+  uri: "http://localhost:5000/graphql",
   cache,
 });
 
