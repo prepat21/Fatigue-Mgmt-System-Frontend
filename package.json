@@ -39,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy":"https://localhost:5000"
+  "proxy":"https://fatigue-mgmt-system-api.onrender.com/graphql?"
 }
