@@ -8,9 +8,6 @@ export default function Header() {
         <a className="navbar-brand me-3" href="/">
           Personal Training Systems
         </a>
-        <a className="nav-link" href="/">
-          Home
-        </a>
         <a className="nav-link" href="/trainers/">
           Trainers
         </a>
