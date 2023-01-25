@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { FaList } from "react-icons/fa";
-import { useMutation, useQuery } from "@apollo/client";
+import { useMutation } from "@apollo/client";
 import { GET_TRAINERS } from "../queries/trainerQueries";
 import { ADD_TRAINER } from "../mutations/trainerMutations";
 

@@ -1,3 +1,1 @@
-# Personal Training Client Management System
-
-Frontend ReactJS client for Personal Training Systems
+FILL IN WHATEVER YOU WANT

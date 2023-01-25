@@ -13,7 +13,7 @@ export default function ClientsInfo() {
   if (loading) return <Spinner />;
   if (error)
     return (
-      <a className="btn btn-light" data-bs-dismiss="modal">
+      <a className="btn btn-light" href="/" data-bs-dismiss="modal">
         Cancel
       </a>
     );

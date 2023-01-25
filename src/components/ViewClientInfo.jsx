@@ -64,8 +64,16 @@ export default function ViewClientInfo() {
                     href={`/clients/${clientId}`}
                     className="btn btn-secondary"
                   >
-                    view
+                    View
                   </a>
+                  <button
+                    data-bs-dismiss="modal"
+                    className="btn btn-light ms-2"
+                    aria-label="Close"
+                    type="button"
+                  >
+                    Cancel
+                  </button>
                 </form>
               </div>
             </div>

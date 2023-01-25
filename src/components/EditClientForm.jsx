@@ -142,6 +142,9 @@ export default function EditClientForm({ client }) {
             <button type="submit" className="btn btn-secondary">
               Save Changes
             </button>
+            <a href="/clients" className="btn btn-light ms-3">
+              Cancel
+            </a>
           </form>
         </div>
       </>
