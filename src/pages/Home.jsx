@@ -8,7 +8,7 @@ export default function Home() {
       >
         <div className="vstack gap-2 col-md-6 mx-auto">
           <h1 className="display-1 text-primary-emphasis mx-auto">Hi, Admin</h1>
-          <h1 className="display-5 text-primary mx-auto">
+          <h1 className="display-6 text-primary mx-auto">
             Welcome to Your Dashboard!
           </h1>
         </div>
